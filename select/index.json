@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "パンドラボックス",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2026-01-02T12:18:48.306007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パンドラボックス",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_パンドラボックス_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パンドラボックス",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/02_パンドラボックス_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pandora Box [パンドラボックス]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_Pandora_Box_[パンドラボックス]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パンドラボックス",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/04_パンドラボックス_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パンドラボックス",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_パンドラボックス_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "パンドラボックス",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_パンドラボックス_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
